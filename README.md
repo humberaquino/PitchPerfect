@@ -1,3 +1,3 @@
 # Perfect Pitch
-This is a iOS 8 application written in Switf for Udacity's iOS developer nanodegree.
+This is a iOS 8 project submition for Udacity's 'Intro to iOS App Development with Swift'
 
